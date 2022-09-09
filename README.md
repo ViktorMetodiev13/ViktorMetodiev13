@@ -4,7 +4,7 @@
 - 💞️ I'm constanly looking for new opportunities so feel free to contact me anytime. I would gladly join you!
 - 📫 How to reach me? 
 -  Email: miroslavov_victor_@abv.bg
--  LinkedIn: Victor Metodiev
+-  LinkedIn: linkedin.com/in/victor-metodiev-32b8b523b
 - 😃 Who am I? I am an open-minded and friendly person so don't think twice about connecting with me.
 
 <!---
