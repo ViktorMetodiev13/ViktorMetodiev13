@@ -1,4 +1,4 @@
-- 👋 Welcome to my Profile, My name is Victor Metodiev.
+- 👋 Welcome to my Profile,
 - 👀 I’m interested in in all kinds of technologies but mainly I put my time into programming.
 - 🌱 I’m currently learning programming with javascript. I am fascinated by the language and its benefits.
 - 💞️ I'm constanly looking for new opportunities so feel free to contact me anytime. I would gladly join you!
