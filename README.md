@@ -5,7 +5,7 @@
 - 📫 How to reach me? 
 -  Email: miroslavov_victor_@abv.bg
 -  LinkedIn: linkedin.com/in/victor-metodiev-32b8b523b
-- 😃 Who am I? I am an open-minded and friendly person so don't think twice about connecting with me.
+- 😃 Who am I? I am an open-minded and friendly person so don't think twice about connecting with me. I am able to grasp new concepts and ideas easily and efficiently as well as I am hardworking person in general.
 
 <!---
 ViktorMetodiev13/ViktorMetodiev13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
