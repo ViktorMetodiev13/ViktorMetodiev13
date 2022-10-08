@@ -9,7 +9,7 @@
 
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,express,git,mongodb,nodejs,)](https://skillicons.dev)
 
 <!---
 ViktorMetodiev13/ViktorMetodiev13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
