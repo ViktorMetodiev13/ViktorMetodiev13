@@ -6,7 +6,7 @@
 
 🔨 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,express,git,mongodb,nodejs,typescript,angular,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,express,git,mongodb,nodejs,typescript,angular,html,css,react,vscode)](https://skillicons.dev)
 
 🌐 Socials
 
