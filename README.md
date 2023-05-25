@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,express,git,mongodb,nodejs,typescript,angular,html,css,react,vscode)](https://skillicons.dev)
 
-🌐 Socials
+🌐 How to reach me?
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-metodiev-32b8b523b/)
 
