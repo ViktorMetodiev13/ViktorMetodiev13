@@ -5,7 +5,7 @@
 - 👀 I’m interested in all kinds of technologies but mainly I put my time into learning to code using JavaScript. I am fascinated by the language and its benefits.
 - 💞️ I'm constanly looking for new opportunities so feel free to contact me anytime. I would gladly join you!
 
-🔨 Skills
+🔨 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
