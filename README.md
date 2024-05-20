@@ -1,9 +1,9 @@
 # Viktor Metodiev
 
-- 👋 Welcome to my Profile.
-- 😃 Who am I? I am an open-minded and friendly person. I am able to grasp new concepts and ideas easily and efficiently. I am a hardworking person.
-- 👀 I’m interested in all kinds of technologies but mainly I put my time into learning to code using JavaScript. I am fascinated by the language and its benefits.
-- 💞️ I'm constanly looking for new opportunities so feel free to contact me anytime. I would gladly join you!
+- 👋 Welcome to my profile!
+- 😃 About Me: I am an open-minded and friendly individual with a strong ability to quickly grasp new concepts and ideas. I am dedicated and hardworking.
+- 👀 Interests: My primary interest lies in front-end development, with a particular focus on React. I am particularly drawn to its component-based architecture and the efficiency it brings to building dynamic user interfaces.
+- 🚀 Opportunities: I am continually seeking new opportunities. Feel free to contact me at any time—I would be delighted to collaborate with you!
 
 🔨 Tech Stack:
 
