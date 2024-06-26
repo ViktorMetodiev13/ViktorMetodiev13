@@ -7,7 +7,7 @@
 
 🔨 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git)](https://skillicons.dev)
 
 🌐 socials
 
