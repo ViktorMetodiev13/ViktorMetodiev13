@@ -15,7 +15,7 @@
 
 🌐 socials
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-metodiev-32b8b523b/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-metodiev/)
 
 <!---
 ViktorMetodiev13/ViktorMetodiev13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
