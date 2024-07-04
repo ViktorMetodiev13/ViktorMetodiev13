@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
-⭐ Soft Skills:
+⭐ Other Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,cpp,c,git,mongodb,npm)](https://skillicons.dev)
 
