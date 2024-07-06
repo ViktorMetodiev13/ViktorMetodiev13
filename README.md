@@ -17,6 +17,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-metodiev/)
 
+**💡 Projects  👇**
+
 <!---
 ViktorMetodiev13/ViktorMetodiev13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
