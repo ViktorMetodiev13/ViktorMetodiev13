@@ -1,4 +1,4 @@
-# Viktor Metodiev
+# Victor Metodiev
 
 - 👋 Welcome to my profile!
 - 😃 About Me: I am an open-minded and friendly individual with a strong ability to quickly grasp new concepts and ideas. I am dedicated and hardworking.
