@@ -11,7 +11,7 @@
 
 ⭐ Other Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,discord,mongodb,npm,nodejs,expressjs,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,discord,mongodb,npm,cpp,c)](https://skillicons.dev)
 
 🌐 socials
 
