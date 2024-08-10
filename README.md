@@ -7,7 +7,7 @@
 
 🔨 Hard Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript)](https://skillicons.dev)
 
 ⭐ Other Skills:
 
