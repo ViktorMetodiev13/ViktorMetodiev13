@@ -11,7 +11,7 @@
 
 ⭐ Other Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,discord,mongodb,npm,cpp,c,firebase,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,firebase,bootstrap,git,cpp,c,mongodb,npm,vscode)](https://skillicons.dev)
 
 🌐 socials
 
