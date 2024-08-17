@@ -7,7 +7,7 @@
 
 🔨 Hard Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,typescript)](https://skillicons.dev)
 
 ⭐ Other Skills:
 
@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-metodiev/)
 
-**💡 Projects  👇**
+**💡 Top Projects  👇**
 
 <!---
 ViktorMetodiev13/ViktorMetodiev13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
