@@ -5,7 +5,7 @@
 - 👀 Interests: My primary interest lies in front-end development, with a particular focus on React. I am particularly drawn to its component-based architecture and the efficiency it brings to building dynamic user interfaces.
 - 🚀 Opportunities: I am continually seeking new opportunities. Feel free to contact me at any time—I would be delighted to collaborate with you!
 
-🔨 Hard Skills:
+🔨 Main Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,typescript)](https://skillicons.dev)
 
