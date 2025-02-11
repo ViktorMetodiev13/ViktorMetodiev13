@@ -7,11 +7,11 @@
 
 🔨 Main Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,typescript,tailwindcss,remix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,tailwindcss,remix)](https://skillicons.dev)
 
 ⭐ Other Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,firebase,vite,webpack,git,cpp,c,npm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,redux,firebase,vite,webpack,git,cpp,c,npm,vscode)](https://skillicons.dev)
 
 🌐 socials
 
